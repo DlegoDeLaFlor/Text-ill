@@ -1,1 +1,1 @@
-label1.Text = "Texto desde ramaA";
+label1.Text = "Texto desde ramaA + ramaB";
